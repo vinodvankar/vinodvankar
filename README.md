@@ -8,7 +8,7 @@ Senior Frontend Developer · Vue.js · Rust-curious
 
 I am a Senior Frontend Developer, focusing on building scalable, high-performance user interfaces with Vue 3 and modern tooling. I care deeply about how things work, not just how they look — performance, architecture, and long-term maintainability matter to me.
 
-Over time, my curiosity naturally pulled me beyond the browser. I started exploring Rust, backend systems, and even game development concepts. My goal is simple but demanding: be the kind of engineer who understands the full system, from UI down to memory and async execution.
+Over time, my curiosity naturally pulled me beyond the browser. I started exploring Rust, backend systems, and even game development concepts.
 
 I’m also motivated by a long-term vision of working on globally impactful products and exploring opportunities beyond my home country.
 
