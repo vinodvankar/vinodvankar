@@ -21,32 +21,14 @@ I’m also motivated by a long-term vision of working on globally impactful prod
 * Performance optimization and rendering strategies
 * SSR, SSG, and SEO-friendly applications
 * Learning Rust and backend fundamentals
-* Systems thinking and problem decomposition
 
 ---
 
-## Skills & Tech Stack
-
-### Frontend
-
-* Vue.js (Vue 3, Composition API)
-* Nuxt (SSR / SSG)
-* JavaScript
-* HTML, CSS, SASS, LESS, Tailwind CSS
-* State management and performance optimization
-
-### Backend & Systems (learning and applying)
+### learning and applying
 
 * Rust
 * REST APIs
-* PostgreSQL (basics)
 * Async concepts and architecture
-
-### Tools & Workflow
-
-* Git and GitHub
-* Docker (foundations)
-* Agile workflows and issue tracking
 
 ---
 
@@ -54,18 +36,9 @@ I’m also motivated by a long-term vision of working on globally impactful prod
 
 Right now, I’m intentionally narrowing my focus to go deeper rather than wider:
 
-* Becoming exceptional at advanced frontend engineering
 * Building real projects that combine Nuxt with Rust backends
 * Strengthening fundamentals in systems and backend design
 * Gradually moving toward game development and creative tooling
-
----
-
-## A bit more, beyond code
-
-I enjoy learning continuously, thinking about how technology evolves, and building skills that stay valuable even as tools change.
-
-Outside of work, I enjoy gaming, swimming, and consuming tech-focused content — from deep technical talks to product and career insights.
 
 ---
 
@@ -73,6 +46,3 @@ Outside of work, I enjoy gaming, swimming, and consuming tech-focused content �
 
 * LinkedIn: [https://www.linkedin.com/in/vinod-vankar/](https://www.linkedin.com/in/vinod-vankar/)
 
----
-
-> I aim to build depth first — speed comes naturally after that.
