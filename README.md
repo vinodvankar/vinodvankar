@@ -1,6 +1,6 @@
 # Hi, I'm Vinod Vankar 👋
 
-Senior Frontend Developer · Vue.js · Rust-curious · Systems thinker
+Senior Frontend Developer · Vue.js · Rust-curious
 
 ---
 
